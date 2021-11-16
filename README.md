@@ -1,1 +1,2 @@
-# m1_c_bodymassindex
+# A Hotel Management System In C is untroublesome as it will serve the admin or user to be updated about the records without any strain and it is favored much by the people involved in the business sector. As we are aware of the busy and hectic schedule of business people, this Hotel Management System In C Language turns out to be a great relief for them.
+## This C Program For Hotel Management System definitely has a wide scope to minimize errors in the making of bills and it also limits the delay of delivering bills to the customers which can include taxes on the basis of their expenditure.
